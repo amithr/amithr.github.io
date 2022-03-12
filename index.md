@@ -1,1 +1,1 @@
-# Hello World
+# Hi! I'm Amith Ravindar. I'm a teacher and a software developer.
