@@ -3,7 +3,7 @@
 After university I worked as software developer for 4 years, but I quit to work as a teacher of English and Computer Science for 4 years in Vietnam and Kyrgyzstan. Now I'm looking to work as a developer again.
 
   
-Specialties: React, Python (Flask), PHP (Symphony, Laravel)
+Specialties: React, Python (Flask), PHP (Symphony, Laravel)  
 Familiar with: Git, Docker, AWS, Python (Django), Node.js
 
 
