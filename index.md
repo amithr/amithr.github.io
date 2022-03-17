@@ -2,15 +2,18 @@
 
 After university I worked as software developer for 4 years, but I quit to work as a teacher of English and Computer Science for 4 years in Vietnam and Kyrgyzstan. Now I'm looking to work as a developer again.
 
-Specialties: React, Python, PHP (Symphony, Laravel), AWS, Docker, DevOps
+:computer:  
+Specialties: React, Python (Flask), PHP (Symphony, Laravel)
+Familiar with: Git, Docker, AWS, Python (Django), Node.js
 
-I also create Python and computer science-related tutorials on my Youtube channel, [The CS Classroom](https://www.youtube.com/c/TheCSClassroom/).
 
-You can read more about me at my personal blog, [amith.life](http://amith.life).
+:tv: I also create Python and computer science-related tutorials on my Youtube channel, [The CS Classroom](https://www.youtube.com/c/TheCSClassroom/).
+
+:pencil2: You can read more about me at my personal blog, [amith.life](http://amith.life).
 
 # Portfolio
 
-## Olio
+## Olio :alarm_clock:
 Technologies used: React, Firebase, Mobx (State Management)  
 Deployment: Firebase
 
@@ -24,7 +27,7 @@ teachers to keep track of their students and their students' lessons. I built th
 ![Olio Screenshot](/images/lesson_scheduler_screenshot.png?raw=true)
 
 
-## EasyVax
+## EasyVax :syringe:
 Technologies used: Flask, Python, PostgreSQL  
 Deployment: Heroku
 
