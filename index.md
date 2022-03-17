@@ -33,7 +33,7 @@ Deployment: Heroku
 
 EasyVax was built as a part of a series of tutorials ([Link](https://www.youtube.com/playlist?list=PLqK_fRVXlXebDoOSZPM2lceqZ0_Lla6ye)) on my Youtube channel
 to introduce my students to web development. I then upgraded it
-significantly to demonstrate my own programming and DevOps capabilities.
+significantly to demonstrate my own programming capabilities.
 
 It's a proof-of-concept vaccine passport system made for healthcare professionals to keep track of and provide patients with QR-code based proof of vaccination.  
 
