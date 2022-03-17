@@ -4,7 +4,7 @@ After university I worked as software developer for 4 years, but I quit to work 
 
 :computer:  
 Specialties: React, Python (Flask), PHP (Symphony, Laravel)
-Familiar with: Git, Docker, AWS, Python (Django), Node.js
+Familiar with: Git, Docker, AWS, Python (Django), Node.js, C
 
 
 :tv: I also create Python and computer science-related tutorials on my Youtube channel, [The CS Classroom](https://www.youtube.com/c/TheCSClassroom/).
