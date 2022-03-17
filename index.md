@@ -21,7 +21,7 @@ teachers to keep track of their students and their students' lessons. I built th
 
 [Link to App](https://lesson-scheduler-832f8.web.app/)  
 
-![Olio Screenshot](<images/lesson_scheduler_screenshot.png>)
+![Olio Screenshot](/amithr.github.io/images/lesson_scheduler_screenshot.png)
 
 
 ## EasyVax
