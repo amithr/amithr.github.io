@@ -8,9 +8,9 @@ I also create Python and computer science-related tutorials on my Youtube channe
 
 You can read more about me at my personal blog, [amith.life](http://amith.life).
 
-## Portfolio
+# Portfolio
 
-# Olio
+## Olio
 Technologies used: React, Firebase, Mobx (State Management)  
 Deployment: Firebase
 
@@ -22,7 +22,7 @@ teachers to keep track of their students and their students' lessons. I built th
 [Link to App](https://lesson-scheduler-832f8.web.app/)  
 
 
-# EasyVax
+## EasyVax
 Technologies used: Flask, Python, PostgreSQL  
 Deployment: Heroku
 
