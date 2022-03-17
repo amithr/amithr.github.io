@@ -4,9 +4,9 @@ After university I worked as software developer for 4 years, but I quit to work 
 
 Specialties: React, Python, PHP (Symphony, Laravel), AWS, Docker, DevOps
 
-I also create coding and computer science-related tutorials on my Youtube channel, [The CS Classroom](https://www.youtube.com/c/TheCSClassroom/)
+I also create Python and computer science-related tutorials on my Youtube channel, [The CS Classroom](https://www.youtube.com/c/TheCSClassroom/).
 
-You can read more about me at my personal blog, [amith.life](amith.life)
+You can read more about me at my personal blog, [amith.life](http://amith.life).
 
 ## Portfolio
 
