@@ -1,10 +1,12 @@
 # Hi! I'm Amith Ravindar. I'm a teacher and a software developer.
 
-I was a software engineer for 4 years, I quit to work as a teacher for 4 years, and now I'm actively looking for a job as a software developer.
+After university I worked as software developer for 4 years, but I quit to work as a teacher of English and Computer Science for 4 years in Vietnam and Kyrgyzstan. Now I'm looking to work as a developer again.
 
 Specialties: React, Python, PHP (Symphony, Laravel), AWS, Docker, DevOps
 
-I also create codings and computer science-related tutorials on my Youtube channel, [The CS Classroom](https://www.youtube.com/c/TheCSClassroom/)
+I also create coding and computer science-related tutorials on my Youtube channel, [The CS Classroom](https://www.youtube.com/c/TheCSClassroom/)
+
+You can read more about me at my personal blog, [amith.life](amith.life)
 
 ## Portfolio
 
