@@ -13,8 +13,10 @@ Deployment: Firebase
 This is a simple application based on create-react-app to allow freelance
 teachers to keep track of their students and their students' lessons. I built this for my wife, but also to demonstrate my React/Javascript abilities.
 
-[Link to Codebase](https://github.com/amithr/Lesson-Scheduler)
-[Link to App](https://lesson-scheduler-832f8.web.app/) 
+[Link to Codebase](https://github.com/amithr/Lesson-Scheduler)  
+
+[Link to App](https://lesson-scheduler-832f8.web.app/)  
+
 
 # EasyVax
 Technologies used: Flask, Python, PostgreSQL
@@ -25,5 +27,7 @@ to introduce my students to web development. I then upgraded it
 significantly to demonstrate my own programming and DevOps capabilities.
 
 It's a proof-of-concept vaccine passport system made for healthcare professionals to keep track of and provide patients with QR-code based proof of vaccination.
-[Link to Codebase](https://github.com/amithr/EasyVax)
-[Link to App](https://easyvax-app.herokuapp.com/)
+[Link to Codebase](https://github.com/amithr/EasyVax)  
+
+[Link to App](https://easyvax-app.herokuapp.com/)  
+
