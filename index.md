@@ -13,7 +13,7 @@ Familiar with: Git, Docker, AWS, Python (Django), Node.js
 
 # Portfolio
 
-## Olio :alarm_clock:
+## Olio
 Technologies used: React, Firebase, Mobx (State Management)  
 Deployment: Firebase
 
@@ -27,7 +27,7 @@ teachers to keep track of their students and their students' lessons. I built th
 ![Olio Screenshot](/images/lesson_scheduler_screenshot.png?raw=true)
 
 
-## EasyVax :syringe:
+## EasyVax
 Technologies used: Flask, Python, PostgreSQL  
 Deployment: Heroku
 
