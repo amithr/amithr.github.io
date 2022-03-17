@@ -21,6 +21,8 @@ teachers to keep track of their students and their students' lessons. I built th
 
 [Link to App](https://lesson-scheduler-832f8.web.app/)  
 
+![Olio Screenshot](lesson_scheduler_screenshot.png)
+
 
 ## EasyVax
 Technologies used: Flask, Python, PostgreSQL  
