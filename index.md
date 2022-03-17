@@ -2,14 +2,14 @@
 
 After university I worked as software developer for 4 years, but I quit to work as a teacher of English and Computer Science for 4 years in Vietnam and Kyrgyzstan. Now I'm looking to work as a developer again.
 
-:computer:  
+  
 Specialties: React, Python (Flask), PHP (Symphony, Laravel)
 Familiar with: Git, Docker, AWS, Python (Django), Node.js, C
 
 
-:tv: I also create Python and computer science-related tutorials on my Youtube channel, [The CS Classroom](https://www.youtube.com/c/TheCSClassroom/).
+I also create Python and computer science-related tutorials on my Youtube channel, [The CS Classroom](https://www.youtube.com/c/TheCSClassroom/).
 
-:pencil2: You can read more about me at my personal blog, [amith.life](http://amith.life).
+You can read more about me at my personal blog, [amith.life](http://amith.life).
 
 # Portfolio
 
