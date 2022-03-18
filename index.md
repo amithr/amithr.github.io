@@ -15,7 +15,7 @@ You can read more about me at my personal blog, [amith.life](http://amith.life).
 
 ## Olio
 Technologies used: React, Firebase, Mobx (State Management)  
-Deployment: Firebase
+Deployment: Firebase Cloud
 
 This is a simple application based on create-react-app to allow freelance
 teachers to keep track of their students and their students' lessons. I built this for my wife, but also to demonstrate my React/Javascript abilities.
@@ -39,5 +39,7 @@ It's a proof-of-concept vaccine passport system made for healthcare professional
 
 [Link to Codebase](https://github.com/amithr/EasyVax)  
 
-[Link to App](https://easyvax-app.herokuapp.com/)  
+[Link to App](https://easyvax-app.herokuapp.com/)
+
+![EasyVax Screenshot](/images/easyvax_screenshot.png?raw=true)
 
