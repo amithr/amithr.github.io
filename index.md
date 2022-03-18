@@ -13,6 +13,8 @@ You can read more about me at my personal blog, [amith.life](http://amith.life).
 
 # Portfolio
 
+![Olio Screenshot](/images/lesson_scheduler_screenshot.png?raw=true)
+
 ## Olio
 Technologies used: React, Firebase, Mobx (State Management)  
 Deployment: Firebase Cloud
@@ -24,8 +26,7 @@ teachers to keep track of their students and their students' lessons. I built th
 
 [Link to App](https://lesson-scheduler-832f8.web.app/)  
 
-![Olio Screenshot](/images/lesson_scheduler_screenshot.png?raw=true)
-
+![EasyVax Screenshot](/images/easyvax_screenshot.png?raw=true)
 
 ## EasyVax
 Technologies used: Flask, Python, PostgreSQL  
@@ -40,6 +41,4 @@ It's a proof-of-concept vaccine passport system made for healthcare professional
 [Link to Codebase](https://github.com/amithr/EasyVax)  
 
 [Link to App](https://easyvax-app.herokuapp.com/)
-
-![EasyVax Screenshot](/images/easyvax_screenshot.png?raw=true)
 
