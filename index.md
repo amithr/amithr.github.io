@@ -13,7 +13,7 @@ You can read more about me at my personal blog, [amith.life](http://amith.life).
 
 # Portfolio
 
-![Olio Screenshot](/images/lesson_scheduler_screenshot.png?raw=true)
+![Olio Screenshot](/images/lesson_scheduler_screenshot_2.png?raw=true)
 
 ## Olio
 Technologies used: React, Firebase, Mobx (State Management)  
