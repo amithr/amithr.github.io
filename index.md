@@ -1,6 +1,6 @@
 # Hi! I'm Amith Ravindar. I'm a teacher and a software developer.
 
-After university I worked as software developer for 4 years, but I quit to work as a teacher of English and Computer Science for 4 years in Vietnam and Kyrgyzstan. Now I'm looking to work as a developer again.
+After university I worked as software developer for 4 years, but I quit to work as a teacher of English and Computer Science for 4 years in Vietnam and Kyrgyzstan. Now I'm looking to work in the technology field again.
 
 Here's a link to my CV: [Link to CV](https://docs.google.com/document/d/1NXd0rMwc8QtOYsrQriAvxNJu5pBejzAKpQOh2hHxKMI/edit?usp=sharing)
   
